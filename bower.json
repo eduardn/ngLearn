@@ -21,6 +21,7 @@
     "bootstrap": "~3.3.5",
     "angular-resource": "~1.4.5",
     "ui-router": "~0.2.15",
-    "octicons": "~3.1.0"
+    "octicons": "~3.1.0",
+    "lodash": "~3.10.1"
   }
 }
