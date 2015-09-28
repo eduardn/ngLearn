@@ -1,0 +1,26 @@
+{
+  "name": "learn-angular",
+  "version": "1.0.0",
+  "description": "A simple angular project used in an introduction to angular presentation",
+  "moduleType": [
+    "globals"
+  ],
+  "authors": [
+    "Eduard Neculaesi <neculaesi.eduard@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.4",
+    "bootstrap": "~3.3.5",
+    "angular-resource": "~1.4.5",
+    "ui-router": "~0.2.15",
+    "octicons": "~3.1.0"
+  }
+}
