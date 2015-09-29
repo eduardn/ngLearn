@@ -4,7 +4,10 @@
     angular.module('ngLearn', [
         // Libraries
         'ngResource',
-        'ui.router'
+        'ui.router',
+
+        // Modules
+        'ngLearn.repositories'
     ]);
 
 })(angular);
